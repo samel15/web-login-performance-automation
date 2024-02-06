@@ -1,0 +1,8 @@
+2024-01-31 09:52:25 - Unhandled Error: TypeError: Cannot read properties of null (reading 'toString')
+2024-01-31 10:16:59 - Unhandled Error: ReferenceError: invalidUsers is not defined
+2024-01-31 10:27:38 - Unhandled Error: TypeError: text is not iterable
+2024-01-31 11:55:53 - Unhandled Error: TypeError: Cannot read properties of null (reading 'toString')
+2024-01-31 11:56:51 - Unhandled Error: TypeError: Cannot read properties of null (reading 'toString')
+2024-01-31 12:20:06 - Unhandled Error: ProtocolError: Runtime.callFunctionOn timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.
+2024-02-01 19:57:47 - Unhandled Error: TimeoutError: Waiting for selector `input[type="email"]#i0116` failed: Waiting failed: 60000ms exceeded
+2024-02-02 07:37:22 - Unhandled Error: Error: Navigating frame was detached

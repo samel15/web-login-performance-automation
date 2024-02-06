@@ -1,0 +1,10 @@
+{
+    "name": "Login_many_external_users.js",
+    "version": "1.0.0",
+    "description": "Description of your script",
+    "dependencies": {
+        "puppeteer": "^13.0.0",
+        "exceljs": "^4.4.0"
+    },
+    "builtin": ["fs"]
+}
